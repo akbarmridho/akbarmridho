@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Akbar Maulana Ridho and I'm a final-year undergraduate informatics student at Institut Teknologi Bandung. My fields of interest are software engineering, website development, and distributed applications.
+My name is Akbar Maulana Ridho and I'm a undergraduate informatics alumni at Institut Teknologi Bandung. My fields of interest are software engineering, website development, and distributed applications.
 
 ## Tools and Technologies
 
